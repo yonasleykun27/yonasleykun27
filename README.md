@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yonasleykun27
 - 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently learning Grade 12th in EB-Academy.
+- 🌱 I’m currently learning alx Software engineering course.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
