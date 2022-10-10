@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yonasleykun27
+- 👋 Hi, I’m Yonas Leykun
 - 👀 I’m interested in Software Engineering.
 - 🌱 I’m currently learning alx Software engineering course.
 - 💞️ I’m looking to collaborate on ...
