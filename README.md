@@ -6,16 +6,23 @@
 - 💞️ I’m looking to collaborate on **web development projects, open-source contributions, and problem-solving challenges**.  
 - 📫 How to reach me: **yonasleykun27@gmail.com**  
 
-## 🛠️ Skills  
+## 🛠️ Skills & Tech Stack  
 
-Here are the technical skills I bring to the table:  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,react,nextjs,nodejs,express,mongodb,postgres,mysql,laravel,tailwind,bootstrap,git,github,postman,firebase,docker,vscode,figma" />
+</p>
 
-- **Frontend Development**: HTML, CSS, JavaScript, Media Query, Bootstrap, jQuery  
-- **Backend Development**: Node.js, Express.js  
-- **Frameworks & Libraries**: React  
-- **Tools & Platforms**: Git, GitHub  
-- **Problem-Solving**: Algorithm solving and data structure proficiency  
-- **Others**: Version control, responsive design principles  
+### 🚀 Other Skills
+- 📱 Responsive Design  
+- 🧠 Algorithms & Data Structures  
+- 🔐 Authentication & REST APIs  
+- 📊 Database Design  
+- 🌐 Full-Stack Web Development  
+- 🤝 Team Collaboration  
+- 🧪 Software Testing  
+- 🛡️ Version Control  
+- 🎨 UI/UX Design  
+- 🎬 CapCut & Content Creation  
 
 ## 🌐 Education Links  
 
