@@ -32,8 +32,6 @@
 Let’s connect and build something amazing together! 🚀
 
 
-## 📈 Most Used Languages
+## 👀 Profile Views
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
