@@ -32,6 +32,3 @@
 Let’s connect and build something amazing together! 🚀
 
 
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
